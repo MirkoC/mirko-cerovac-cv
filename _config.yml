@@ -19,9 +19,9 @@ pic: mirko.jpg  #place a 100x100 picture inside /assets/images/ folder and provi
 
 #sidebar links
 email: mirko.cerovac@gmail.com
-phone: +385 91 921 6338
+phone: +385 91 604 6168
 linkedin: mirkocerovac
 github: MirkoC
-twitter: '@MCerovac'
+# twitter: '@MCerovac'
 
 #Update all the sections by editing the files inside _includes folder.
